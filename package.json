@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
   }
 }
